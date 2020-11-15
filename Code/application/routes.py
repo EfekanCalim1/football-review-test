@@ -2,7 +2,7 @@ from flask import render_template, redirect, url_for, request
 
 from application import app, db
 from application.models import Players, Review
-from application.forms import PlayersForm, ReviewForm
+from application.forms import ReviewForm
 
 @app.route('/', methods= ['POST', 'GET'])
 def index():
