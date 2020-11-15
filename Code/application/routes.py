@@ -19,7 +19,7 @@ def add():
         player_choices.append((str(player.id), player.player))
     form.playerid.choices = player_choices
     if form.validate_on_submit():
-        new_review = Review(review=form.review.data, player_id=form.playerid.data)
+        new_review = Review(review=form.review.data, players_id=form.playerid.data)
         db.session.add(new_review)
         db.session.commit()
         return redirect(url_for('index'))
