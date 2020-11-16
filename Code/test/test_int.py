@@ -8,7 +8,7 @@ from flask_testing import LiveServerTestCase
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from application import app, db
-from application.models import Players, Review  
+from application.models import Players, Review 
 
 
 class TestBase(LiveServerTestCase):
