@@ -35,9 +35,9 @@ For this project, I used a Jira project board. This included a product backlog a
 <a href="https://imgur.com/shcI0jm"><img src="https://i.imgur.com/shcI0jm.png" title="source: imgur.com" /></a>
 <br><br>
 <h3>Testing</h3>
-Testing was performed with the pytest package and returned a test coverage of 49%
+Testing was performed with the pytest package and returned a test coverage of 84%
 <br>
-<a href="https://imgur.com/r9sGdQd"><img src="https://i.imgur.com/r9sGdQd.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/7m8s4Is"><img src="https://i.imgur.com/7m8s4Is.png" title="source: imgur.com" /></a>
 <br><br>
 <h3>Risk Assessment</h3>
 Below is a screenshot of part of my risk assessment. Risks were followed up after the MVP was developed and an analysis was performed. The full risk assessment can be found here: https://1drv.ms/x/s!AoYdmsJr6KE6k20mpK-UJWm1uHl8?e=HIF5GE
