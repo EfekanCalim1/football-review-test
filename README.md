@@ -22,4 +22,20 @@ The objective of this project is to create a fully CRUD operational application 
 <br>
 The diagrams below describe the entity relationships for my MySQL database tables. The relationship between Players and Reviews is one to many as one footballer may have many reviews associated to them; however one review will not have many footballers associated to it.
 <br>
+![pic metadata](https://github.com/EfekanCalim1/football-review-test/blob/main/Screenshot%20(45).png)
+<br><br>
+<h3>CI Pipeline</h3>
+The continuous integration pipeline was used for the deployment of the application
+<br>
+![pic metadata](https://github.com/EfekanCalim1/football-review-test/blob/main/CI_pipeline.jpeg)
+<br><br>
+<h3>User Stories and Project Board</h3>
+<br>
+For this project, I used a Jira project board. This included a product backlog and user stories. 
+![pic metadata](https://github.com/EfekanCalim1/football-review-test/blob/main/Screenshot%20(39).png)
+<br><br>
+<h3>Testing</h3>
+
+
+
 
