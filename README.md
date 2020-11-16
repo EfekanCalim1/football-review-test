@@ -22,41 +22,41 @@ The objective of this project is to create a fully CRUD operational application 
 <br>
 The diagrams below describe the entity relationships for my MySQL database tables. The relationship between Players and Reviews is one to many as one footballer may have many reviews associated to them; however one review will not have many footballers associated to it.
 <br>
-![pic metadata](https://imgur.com/lJAAxbR)
+<a href="https://imgur.com/lJAAxbR"><img src="https://i.imgur.com/lJAAxbR.png" title="source: imgur.com" /></a>
 <br><br>
 <h3>CI Pipeline</h3>
 The continuous integration pipeline was used for the deployment of the application
 <br>
-![pic metadata](https://github.com/EfekanCalim1/football-review-test/blob/main/CI_pipeline.jpeg)
+<a href="https://imgur.com/SY3SiOY"><img src="https://i.imgur.com/SY3SiOY.jpg" title="source: imgur.com" /></a>
 <br><br>
 <h3>User Stories and Project Board</h3>
 <br>
 For this project, I used a Jira project board. This included a product backlog and user stories. 
-![pic metadata](https://github.com/EfekanCalim1/football-review-test/blob/main/Screenshot%20(39).png)
+<a href="https://imgur.com/shcI0jm"><img src="https://i.imgur.com/shcI0jm.png" title="source: imgur.com" /></a>
 <br><br>
 <h3>Testing</h3>
 Testing was performed with the pytest package and returned a test coverage of 30%
 <br>
-![pic_metadata](https://github.com/EfekanCalim1/football-review-test/blob/main/test%20coverage.png)
+<a href="https://imgur.com/aHrIOpp"><img src="https://i.imgur.com/aHrIOpp.png" title="source: imgur.com" /></a>
 <br><br>
 <h3>Risk Assessment</h3>
 Below is a screenshot of part of my risk assessment. Risks were followed up after the MVP was developed and an analysis was performed. The full risk assessment can be found here: https://1drv.ms/x/s!AoYdmsJr6KE6k20mpK-UJWm1uHl8?e=HIF5GE
 <br>
-![pic_metadata](https://github.com/EfekanCalim1/football-review-test/blob/main/Screenshot%20(42).png)
+<a href="https://imgur.com/g9bk9Lq"><img src="https://i.imgur.com/g9bk9Lq.png" title="source: imgur.com" /></a>
 <br><br>
 <h3>Jenkins</h3>
 Jenkins was the program used to build and deploy the application. This was done by adding port 8080 to the GCP instance and running the Jenkins install script. Jenkins was given full sudo admissions in order to run the script.
 <br>
-![pic_metadata](https://github.com/EfekanCalim1/football-review-test/blob/main/Screenshot%20(46).png)
+<a href="https://imgur.com/pL87fYM"><img src="https://i.imgur.com/pL87fYM.png" title="source: imgur.com" /></a>
 <br>
-![pic_metadata](https://github.com/EfekanCalim1/football-review-test/blob/main/jenkins.png)
+<a href="https://imgur.com/p1BIJbr"><img src="https://i.imgur.com/p1BIJbr.png" title="source: imgur.com" /></a>
 <br><br>
 <h3>Front End and CRUD Functionality</h3>
 The application has full CRUD functionality and some screenshots of the front end can be found below.
 <br>
-![pic_metadata](https://github.com/EfekanCalim1/football-review-test/blob/main/Screenshot%20(47).png)
-![pic_metadata](https://github.com/EfekanCalim1/football-review-test/blob/main/Screenshot%20(48).png)
-![pic_metadata](https://github.com/EfekanCalim1/football-review-test/blob/main/Screenshot%20(49).png)
+<a href="https://imgur.com/HX9fS26"><img src="https://i.imgur.com/HX9fS26.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/4mFnf5A"><img src="https://i.imgur.com/4mFnf5A.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/JgssV3X"><img src="https://i.imgur.com/JgssV3X.png" title="source: imgur.com" /></a>
 <br><br>
 <h3>Tools</h3>
 Framework: FLask
