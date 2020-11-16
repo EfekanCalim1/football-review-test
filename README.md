@@ -22,7 +22,7 @@ The objective of this project is to create a fully CRUD operational application 
 <br>
 The diagrams below describe the entity relationships for my MySQL database tables. The relationship between Players and Reviews is one to many as one footballer may have many reviews associated to them; however one review will not have many footballers associated to it.
 <br>
-![alt text](https://i.imgur.com/lJAAxbR.png)
+![pic metadata](https://imgur.com/lJAAxbR)
 <br><br>
 <h3>CI Pipeline</h3>
 The continuous integration pipeline was used for the deployment of the application
