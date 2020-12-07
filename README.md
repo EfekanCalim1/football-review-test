@@ -5,7 +5,7 @@
 <h2>Contents</h2>
 <h3>Brief</h3>
 <br>
-The objective of this project is to create a fully CRUD operational application that allows a user to select and review a chosen Premier League footballer. The user should also be able to update and delete their reviews. 
+The objective of this project is to create a fully CRUD operational application that allows a user to select and review a chosen Premier League footballer. The user should also be able to update and delete their reviews. <br>
 <br> 
 <h3>Requirements</h3>
 1. A Trello board (or equivalent Kanban board tech) with full expansion on user stories, use cases and tasks needed to complete the project. It could also provide a record of any issues or risks that you faced creating your project. <br>
